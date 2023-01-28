@@ -1,2 +1,2 @@
 # edoza-source-code
-This repository holds all of the code that was used to create our web application, Edoza. 
+This repository holds all of the code that was used to create our web application, Edoza. This is a website that is easily accessible and allows for students, ages 6-18, to message to tutors and educators, earn certifications, and have their parents or guardians to track their progress. Edoza is also valuable for educators and instituitions as it allows for them to certify the work of students and post course content (videos and/or notes).
